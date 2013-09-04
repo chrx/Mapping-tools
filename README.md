@@ -14,5 +14,3 @@ A navigation graph generator that parses a graph from an object layer in a .tmx 
 * A .plist file will be created that joins each point up to its nearest neighbours where possible.
 
 usage: python generate_navigation.py *input.tmx* *output.plist*
-
-Originally created in 2011 by Chris Page, [christophator.com](http://blog.christophator.com)
